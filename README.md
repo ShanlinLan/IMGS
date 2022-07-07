@@ -1,0 +1,1 @@
+This project is used to save the image resources of my other projects.
